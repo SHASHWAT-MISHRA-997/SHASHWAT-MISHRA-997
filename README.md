@@ -1,10 +1,12 @@
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
-<h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision and robotics.</h3>
+<h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat-mishra-997&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat-mishra-997" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=shashwat-mishra-997&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat-mishra-997" /> 
+</p>
 
 - 👨‍💻 Portfolio Website :
   
@@ -12,7 +14,7 @@
       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 
-- 📫 How to reach me
+- 📫 How to reach me:
 <h3 align="left">Connect with me:</h3>
 <div align="center"> 
   <a href="mailto:shashwatmishra10010@gmail.com">
@@ -21,7 +23,6 @@
   <a href="https://www.linkedin.com/in/sm980/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="https://instagram.com/sm_king997" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -74,6 +75,13 @@
   </a>
 </p>
 
+<h3 align="left">Tech Stack:</h3>
+<ul>
+   <li><strong>Frontend:</strong> HTML, CSS, Tailwind CSS</li>
+   <li><strong>Backend:</strong> Django, Flask, Node.js</li>
+   <li><strong>Data Science & ML:</strong> Python, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Pyqt5, Beautiful soup , PyTorch, Streamlit</li>
+   <li><strong>Database:</strong> MySQL, MongoDB, Firebase</li>
+</ul>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-mishra-997&show_icons=true&locale=en&layout=compact" alt="shashwat-mishra-997" /></p>
 
