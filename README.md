@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SHASHWAT MISHRA</h1>
 <h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision and robotics.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/explore/coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat-mishra-997&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat-mishra-997" /> </p>
 
