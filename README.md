@@ -9,7 +9,7 @@
 - 👨‍💻 Portfolio Website :
   [https://shashwat997.my.canva.site/shashwatmishra-997](https://shashwat997.my.canva.site/shashwatmishra-997)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sm980/**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
