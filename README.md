@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm SHASHWAT MISHRA</h1>
 <div align="center"> <img src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/smgit.png"> </div>
 <h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision and robotics.</h3>
 
