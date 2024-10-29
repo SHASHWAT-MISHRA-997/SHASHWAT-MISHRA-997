@@ -82,18 +82,24 @@
   </a> 
 </div>
 
+<h2>GitHub Stats</h2>
 
+<div class="triangle">
+  <!-- Top Languages Card -->
+  <div class="stats-card card1">
+    <h3>Top Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-mishra-997&show_icons=true&locale=en&layout=compact" alt="Top Languages used by Shashwat Mishra" />
+  </div>
 
-<h3 align="left">Tech Stack:</h3>
-<ul>
-   <li><strong>Frontend:</strong> HTML, CSS, Tailwind CSS</li>
-   <li><strong>Backend:</strong> Django, Flask, Node.js</li>
-   <li><strong>Data Science & ML:</strong> Python, Pandas, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Pyqt5, Beautiful soup , PyTorch, Streamlit</li>
-   <li><strong>Database:</strong> MySQL, MongoDB, Firebase</li>
-</ul>
+  <!-- Profile Stats Card -->
+  <div class="stats-card card2">
+    <h3>Profile Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en" alt="GitHub Profile Stats of Shashwat Mishra" />
+  </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-mishra-997&show_icons=true&locale=en&layout=compact" alt="shashwat-mishra-997" /></p>
+  <!-- GitHub Streak Stats Card -->
+  <div class="stats-card card3">
+    <h3>Streak Stats</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mishra-997" alt="GitHub Streak Stats of Shashwat Mishra" />
+  </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en" alt="shashwat-mishra-997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mishra-997&" alt="shashwat-mishra-997" /></p>
