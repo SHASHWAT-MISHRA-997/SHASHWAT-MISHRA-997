@@ -27,9 +27,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-<h3 align="center">Languages:</h3> 
-<div align="center"> 
+<h3 align="left">Languages:</h3> 
+<div align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   </a> 
@@ -42,12 +41,15 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
 </div> 
 
 <br>
 
-<h3 align="center">Tools:</h3> 
-<div align="center"> 
+<h3 align="left">Tools:</h3> 
+<div align="left"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   </a> 
@@ -69,6 +71,9 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   </a> 
@@ -76,6 +81,7 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   </a> 
 </div>
+
 
 
 <h3 align="left">Tech Stack:</h3>
