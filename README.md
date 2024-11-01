@@ -80,5 +80,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=shashwat-mishra-997&&theme=tokyonight" alt="shashwat-mishra-997" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mishra-997&&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
