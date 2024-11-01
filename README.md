@@ -1,4 +1,4 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
 <h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
@@ -76,22 +76,9 @@
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <h2>GitHub Stats</h2>
 
-<div class="triangle">
-  <!-- Top Languages Card -->
-  <div class="stats-card card1">
-    <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-mishra-997&show_icons=true&locale=en&layout=compact" alt="Top Languages used by Shashwat Mishra" />
-  </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwat-mishra-997&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
-  <!-- Profile Stats Card -->
-  <div class="stats-card card2">
-    <h3>Profile Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en" alt="GitHub Profile Stats of Shashwat Mishra" />
-  </div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
-  <!-- GitHub Streak Stats Card -->
-  <div class="stats-card card3">
-    <h3>Streak Stats</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mishra-997" alt="GitHub Streak Stats of Shashwat Mishra" />
-  </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=shashwat-mishra-997&&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
