@@ -1,3 +1,4 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
 <h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
