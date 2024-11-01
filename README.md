@@ -1,4 +1,7 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=36E485&center=true&vCenter=true&width=940&height=60&lines=Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
+</h1>
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
 <h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
@@ -81,4 +84,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mishra-997&&theme=tokyonight" alt="shashwat-mishra-997" /></p>
+
+<p align="center">
+  <a href="https://github.com/srinathcoder">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36E485&width=435&lines=Thank+you+for+visiting!;See+you+in+my+repositories+👨‍💻!" alt="Thanks for visiting">
+  </a>
+</p>
 
