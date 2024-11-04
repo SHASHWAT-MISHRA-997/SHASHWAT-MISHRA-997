@@ -89,6 +89,13 @@
 <br />
 <p align=center>
 
+<!--=================================== MY STATS ===================================-->
+<h2> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Canoe.png" alt="Canoe" width="50" height="50" />  &nbsp; Activity Data  </h2>
+<div align="center">
+<a href="https://github.com/SHASHWAT-MISHRA-997">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHASHWAT-MISHRA-997&theme=onedark" height="180em" /> <br/><br/>
+
 <a href="https://github.com/SHASHWAT-MISHRA-997" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHWAT-MISHRA-997&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" /></p>
