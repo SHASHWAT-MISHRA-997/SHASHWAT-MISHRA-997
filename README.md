@@ -4,7 +4,7 @@
 </h1>
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
-<h3 align="center">Innovative AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
+<h3 align="center">AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -94,8 +94,6 @@
 <a href="https://github.com/SHASHWAT-MISHRA-997" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHWAT-MISHRA-997&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-mishra-997&&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
   <!-- contribution graph -->
   <a href="https://github.com/SHASHWAT-MISHRA-997/github-readme-activity-graph" title="Go to Source">
