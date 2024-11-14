@@ -84,6 +84,7 @@
 </div>
 
   <hr />
+<a href="https://www.buymeacoffee.com/shashwatmishra997"><img src="https://img.buymeacoffee.com/button-api/?text=Hi&emoji=&slug=shashwatmbx&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
