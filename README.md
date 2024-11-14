@@ -4,7 +4,7 @@
 </h1>
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
-<h3 align="center">AI enthusiast with a robust academic background and practical hands-on projects in machine learning, computer vision, and robotics.</h3>
+<h3 align="center">AI enthusiast with a robust academic background and practical hands-on projects in Machine Learning, Computer Vision and Robotics.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
