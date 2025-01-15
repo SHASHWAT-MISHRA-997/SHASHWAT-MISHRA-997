@@ -99,15 +99,33 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" /></p>
 
-  <!-- contribution graph -->
-  <a href="https://github.com/SHASHWAT-MISHRA-997/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SHASHWAT-MISHRA-997&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SHASHWAT-MISHRA-997&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SHASHWAT-MISHRA-997&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="SHASHWAT-MISHRA-997's contribution graph" />
-    </picture>
+ ## 🌟 DETAILS ABOUT MY REPO 🌟
+
+<p align="center" >
+  <a href="https://github.com/SHASHWAT-MISHRA-997>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHASHWAT-MISHRA-997&theme=aura" alt="Profile Details" width=100%/>
   </a>
 </p>
+<div align="center" width=100%>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;" width=100%>
+    <a href="https://github.com/SHASHWAT-MISHRA-997">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHASHWAT-MISHRA-997&theme=aura" alt="Repositories per Language" width=49% >
+    </a>
+    <a href="https://github.com/SHASHWAT-MISHRA-997">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHASHWAT-MISHRA-997&theme=aura" alt="Most Commit Language"  width=49%>
+    </a>
+  </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;" width=100%>
+    <a href="https://github.com/SHASHWAT-MISHRA-997>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHASHWAT-MISHRA-997&theme=aura" alt="GitHub Stats"  width=49%>
+    </a>
+    <a href="https://github.com/SHASHWAT-MISHRA-997">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHASHWAT-MISHRA-997&theme=aura&utcOffset=8" alt="Productive Time" width=49%>
+    </a>
+  </div>
+</div>
+
+
 
 <p align="center">
   <a href="https://github.com/SHASHWAT-MISHRA-997">
