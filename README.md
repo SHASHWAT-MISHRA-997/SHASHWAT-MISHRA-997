@@ -73,3 +73,6 @@
     </a>
   </div>
 </div>
+<h1 align="center" style="font-family: 'Courier New', monospace;">
+  Thanks for Visiting! Have a Great Day 
+</h1>
