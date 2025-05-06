@@ -73,7 +73,3 @@
     </a>
   </div>
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=36E485&center=true&vCenter=true&width=940&height=60&lines=Thank+you+for+visiting!;See+you+in+my+repositories👨‍💻!">
-</h1>
