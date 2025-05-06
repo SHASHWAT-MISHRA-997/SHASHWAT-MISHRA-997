@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mishra-997&langs_count=10&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages%20by%20Usage%20Percentage" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mishra-997&langs_count=10&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
 
  ## 🌟 DETAILS ABOUT MY REPO 🌟
