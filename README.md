@@ -58,6 +58,6 @@
     </a>
   </div>
 </div>
-<h1 align="center" style="font-family: 'Courier New', monospace;">
-  Thanks for Visiting! Have a Great Day 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=36E485&center=true&vCenter=true&width=650&height=50&lines=Thanks%20for%20Visiting!%20Have%20a%20Great%20Day" alt="Typing SVG">
 </h1>
