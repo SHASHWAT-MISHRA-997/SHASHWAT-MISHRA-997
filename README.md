@@ -1,10 +1,8 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=36E485&center=true&vCenter=true&width=940&height=60&lines=Welcome+to+my+GitHub+Universe!" alt="Typing SVG">
 </h1>
 <img align="center" alt="GitHub Banner" width="1000" src="https://github.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/blob/main/GithubBanner.gif">
 
-<h3 align="center">AI enthusiast with a robust academic background and practical hands-on projects in Machine Learning, Computer Vision and Robotics.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -34,19 +32,6 @@
     <img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=Youtube&logoColor=white" />
   </a>
 </div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat-mishra-997&show_icons=true&locale=en&theme=tokyonight" alt="shashwat-mishra-997" />
-</p>
-
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-mishra-997&langs_count=10&layout=compact&title_color=6366f1&text_color=ffffff&icon_color=22c55e&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
 
  ## 🌟 DETAILS ABOUT MY REPO 🌟
 
