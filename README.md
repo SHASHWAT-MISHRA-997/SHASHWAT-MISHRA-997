@@ -44,20 +44,8 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;" width=100%>
     <a href="https://github.com/SHASHWAT-MISHRA-997">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHASHWAT-MISHRA-997&theme=aura" alt="Repositories per Language" width=49% >
-    </a>
-    <a href="https://github.com/SHASHWAT-MISHRA-997">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHASHWAT-MISHRA-997&theme=aura" alt="Most Commit Language"  width=49%>
-    </a>
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;" width=100%>
-    <a href="https://github.com/SHASHWAT-MISHRA-997">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHASHWAT-MISHRA-997&theme=aura" alt="GitHub Stats"  width=49%>
-    </a>
-    <a href="https://github.com/SHASHWAT-MISHRA-997">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHASHWAT-MISHRA-997&theme=aura&utcOffset=8" alt="Productive Time" width=49%>
-    </a>
-  </div>
-</div>
+  
+ 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=28&duration=3000&pause=1000&color=36E485&center=true&vCenter=true&width=650&height=50&lines=Thanks%20for%20Visiting!%20Have%20a%20Great%20Day" alt="Typing SVG">
 </h1>
