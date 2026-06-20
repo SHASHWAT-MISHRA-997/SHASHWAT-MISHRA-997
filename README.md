@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Shashwat%20Mishra&fontSize=64&fontAlignY=38&desc=AI%20%7C%20Robotics%20%7C%20Data%20Systems&descAlignY=58&descSize=22&animation=fadeIn&fontColor=ffffff&color=0:0b1020,20:111827,45:0ea5e9,75:7c3aed,100:00f5a0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Shashwat%20Mishra&fontSize=64&descAlignY=58&descSize=22&animation=fadeIn&fontColor=ffffff&color=0:0b1020,20:111827,45:0ea5e9,75:7c3aed,100:00f5a0" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5A0&center=true&vCenter=true&width=980&lines=Building+Intelligent+Systems+for+Real+Impact;AI+Engineer+%7C+Robotics+Builder+%7C+Data+Creator;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -66,7 +66,7 @@ I enjoy transforming ideas into working products that are useful, scalable, and 
 
 ---
 
-## 🛠️ Tech Stack (Genuine)
+## 🛠️ Tech Stack
 
 <div align="center">
 
