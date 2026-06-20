@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Shashwat%20Mishra&fontSize=62&fontColor=ffffff&stroke=00F5A0&strokeWidth=1.2&animation=fadeIn&color=0:0d1117,25:1f2937,50:0ea5e9,75:7c3aed,100:00f5a0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Shashwat%20Mishra&fontSize=64&fontAlignY=38&desc=AI%20%7C%20Robotics%20%7C%20Data%20Systems&descAlignY=58&descSize=22&animation=fadeIn&fontColor=ffffff&color=0:0b1020,20:111827,45:0ea5e9,75:7c3aed,100:00f5a0" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5A0&center=true&vCenter=true&width=980&lines=Building+Intelligent+Systems+for+Real+Impact;AI+Engineer+%7C+Robotics+Builder+%7C+Data+Creator;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Engineer-00F5A0?style=for-the-badge&logo=openai&logoColor=111827&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Robotics-38BDF8?style=for-the-badge&logo=ros&logoColor=ffffff&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Data%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=ffffff&labelColor=0f172a" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SHASHWAT-MISHRA-997&label=PROFILE+VIEWS&style=for-the-badge&color=00c2ff" />
+<img src="https://img.shields.io/github/followers/SHASHWAT-MISHRA-997?style=for-the-badge&logo=github&color=00F5A0&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/SHASHWAT-MISHRA-997?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=f59e0b&labelColor=111827" />
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2400&pause=800&color=00F5A0&center=true&vCenter=true&width=1000&lines=AI+%7C+Robotics+%7C+Data+Builder;Designing+Intelligent+Systems+for+Real+Impact;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 
