@@ -6,9 +6,11 @@
 <img src="https://img.shields.io/github/followers/SHASHWAT-MISHRA-997?style=for-the-badge&logo=github&color=00F5A0&labelColor=111827" />
 <img src="https://img.shields.io/github/stars/SHASHWAT-MISHRA-997?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=f59e0b&labelColor=111827" />
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN0anVnM25wN25iaDhiOTQ2a3g2dGRwaWNwYXZ6cmNycW1jOXNsdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="30" /> About Me
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30" /> About Me
 
-<img align="right" alt="Coding" width="330" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="AI Coding" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
 
 Hi, I’m **Shashwat Mishra** — I build practical and impactful systems in **AI, Robotics, and Data Applications**.  
 I enjoy transforming ideas into working products that are useful, scalable, and visually polished.
@@ -36,18 +38,7 @@ I enjoy transforming ideas into working products that are useful, scalable, and 
 
 ---
 
-## 🛠️ Tech Stack 
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-
-</div>
-
----
 
 ## 🔥 Featured Projects
 
