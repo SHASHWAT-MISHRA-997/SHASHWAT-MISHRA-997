@@ -1,38 +1,10 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Shashwat%20Mishra&fontSize=64&descAlignY=58&descSize=22&animation=fadeIn&fontColor=ffffff&color=0:0b1020,20:111827,45:0ea5e9,75:7c3aed,100:00f5a0" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2200&pause=900&color=00F5A0&center=true&vCenter=true&width=980&lines=Building+Intelligent+Systems+for+Real+Impact;AI+Engineer+%7C+Robotics+Builder+%7C+Data+Creator;Turning+Ideas+into+Scalable+Products+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20Engineer-00F5A0?style=for-the-badge&logo=openai&logoColor=111827&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Robotics-38BDF8?style=for-the-badge&logo=ros&logoColor=ffffff&labelColor=0f172a" />
-<img src="https://img.shields.io/badge/Data%20Systems-7C3AED?style=for-the-badge&logo=databricks&logoColor=ffffff&labelColor=0f172a" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=SHASHWAT-MISHRA-997&label=PROFILE+VIEWS&style=for-the-badge&color=00c2ff" />
-<img src="https://img.shields.io/github/followers/SHASHWAT-MISHRA-997?style=for-the-badge&logo=github&color=00F5A0&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/SHASHWAT-MISHRA-997?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=f59e0b&labelColor=111827" />
-
-</div>
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=2400&pause=800&color=00F5A0&center=true&vCenter=true&width=1000&lines=AI+%7C+Robotics+%7C+Data+Builder;Designing+Intelligent+Systems+for+Real+Impact;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/SHASHWAT-MISHRA-997/SHASHWAT-MISHRA-997/main/GithubBanner.gif" alt="GitHub Banner" width="100%" style="border-radius:14px;" />
 
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=SHASHWAT-MISHRA-997&label=PROFILE+VIEWS&style=for-the-badge&color=00c2ff" />
 <img src="https://img.shields.io/github/followers/SHASHWAT-MISHRA-997?style=for-the-badge&logo=github&color=00F5A0&labelColor=111827" />
 <img src="https://img.shields.io/github/stars/SHASHWAT-MISHRA-997?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=f59e0b&labelColor=111827" />
-
-</div>
-
----
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN0anVnM25wN25iaDhiOTQ2a3g2dGRwaWNwYXZ6cmNycW1jOXNsdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="30" /> About Me
 
@@ -50,8 +22,6 @@ I enjoy transforming ideas into working products that are useful, scalable, and 
 
 ---
 
-
-
 ## 🌐 Connect
 
 <div align="center">
@@ -66,7 +36,7 @@ I enjoy transforming ideas into working products that are useful, scalable, and 
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 <div align="center">
 
@@ -83,18 +53,40 @@ I enjoy transforming ideas into working products that are useful, scalable, and 
 
 <div align="center">
 
-<a href="https://github.com/SHASHWAT-MISHRA-997/AMR-MuJoCo-Simulator">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHASHWAT-MISHRA-997&repo=AMR-MuJoCo-Simulator&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SHASHWAT-MISHRA-997/SARVABODH.AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHASHWAT-MISHRA-997&repo=SARVABODH.AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SHASHWAT-MISHRA-997/SHARVAGYA.AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHASHWAT-MISHRA-997&repo=SHARVAGYA.AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SHASHWAT-MISHRA-997/Insight-PDF-Chat-Bot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SHASHWAT-MISHRA-997&repo=Insight-PDF-Chat-Bot&theme=tokyonight&hide_border=true" />
-</a>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🤖 AMR-MuJoCo-Simulator</h3>
+      <p>Autonomous mobile robot simulation and control experiments using MuJoCo.</p>
+      <a href="https://github.com/SHASHWAT-MISHRA-997/AMR-MuJoCo-Simulator">
+        <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🧠 SARVABODH.AI</h3>
+      <p>Practical AI workflow exploration and implementation projects.</p>
+      <a href="https://github.com/SHASHWAT-MISHRA-997/SARVABODH.AI">
+        <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔬 SHARVAGYA.AI</h3>
+      <p>Interactive and scalable AI-focused development experiments.</p>
+      <a href="https://github.com/SHASHWAT-MISHRA-997/SHARVAGYA.AI">
+        <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%">
+      <h3>🦾 Robot-ARM-Peg-in-Hole-Normal-Inclined-Sculpture-Color-Sort-Simulation</h3>
+      <p>Robotic arm simulation for peg-in-hole and color sorting on normal and inclined setups.</p>
+      <a href="https://github.com/SHASHWAT-MISHRA-997/Robot-ARM-Peg-in-Hole-Normal-Inclined-Sculpture-Color-Sort-Simulation">
+        <img src="https://img.shields.io/badge/View%20Project-111827?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -103,7 +95,7 @@ I enjoy transforming ideas into working products that are useful, scalable, and 
 - 🤖 **AMR-MuJoCo-Simulator** — autonomous robot simulation and control experimentation  
 - 🧠 **SARVABODH.AI** — AI workflow exploration and practical implementation  
 - 🔬 **SHARVAGYA.AI** — scalable and interactive AI-focused development  
-- 📄 **Insight-PDF-Chat-Bot** — conversational Q&A over documents  
+- 🦾 **Robot-ARM-Peg-in-Hole-Normal-Inclined-Sculpture-Color-Sort-Simulation** — robotic arm simulation for peg-in-hole and color sorting tasks  
 - 💬 **Whatsapp Chat AI Analyzer** — smart chat insights and analysis  
 - 🌾 **Agriculture Commodity Predictor** — applied prediction for agri market trends  
 
